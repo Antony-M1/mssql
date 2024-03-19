@@ -22,6 +22,7 @@
 3. [TOP, LIMIT, FETCH FIRST, ROWNUM](basic/TOP-LIMIT-FETCH_FIRST-ROWNUM.md)
 4. [NULL LAST](basic/null-last.md)
 5. [N-prefix](basic/N-prefix.md)
+6. [Constraints](basic/constraints.md)
 
 
 ### Advance
